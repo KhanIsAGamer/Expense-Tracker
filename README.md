@@ -21,7 +21,7 @@ Python 3.x
 No external libraries required
 
 Installation:
-Clone the repository using git clone https://github.com/arabi-1/Expense-tracker.git
+Clone the repository using git clone https://github.com/KhanIsAGamer/Expense-tracker.git
 Run the program using python expense_tracker.py
 License
 This program is licensed under the MIT License.
@@ -30,7 +30,7 @@ Contributing:
 Contributions are welcome! If you have any ideas or bug fixes, please submit a pull request.
 
 Author:
-Muhmmad Arabi,
+Muhammad Arabi,
 Mahmood Ashraf
 
 Acknowledgments:
